@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  About Me:
 Second-year Computer Engineering student at Army Institute of Technology, Pune, passionate about Software Development, Full Stack Web Development, and problem-solving. Skilled in Java, C++, Python, React, Node.js, and UI/UX design, with experience building collaborative tech projects and leading student initiatives. Currently exploring scalable backend systems, open source, and modern web technologies while continuously improving DSA and development skills.
 
 
