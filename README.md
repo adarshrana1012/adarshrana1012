@@ -1,18 +1,334 @@
-#  About Me:
-Second-year Computer Engineering student at Army Institute of Technology, Pune, passionate about Software Development, Full Stack Web Development, and problem-solving. Skilled in Java, C++, Python, React, Node.js, and UI/UX design, with experience building collaborative tech projects and leading student initiatives. Currently exploring scalable backend systems, open source, and modern web technologies while continuously improving DSA and development skills.
+<div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6366f1&height=120&section=header&text=&animation=fadeIn" width="100%" />
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/adarshhrana) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:adarshrana1012@gmail.com) 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=818CF8&center=true&vCenter=true&width=700&lines=Adarsh+Rana;Computer+Engineer+%40+AIT+Pune;Full+Stack+Developer;AI+%2F+ML+Engineer;Building+Intelligent+Systems)](https://git.io/typing-svg)
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Node-RED](https://img.shields.io/badge/Node--RED-%238F0000.svg?style=for-the-badge&logo=node-red&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Affinity Photo](https://img.shields.io/badge/affinityphoto-%237E4DD2.svg?style=for-the-badge&logo=affinity-photo&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Couchbase](https://img.shields.io/badge/Couchbase-EA2328?style=for-the-badge&logo=couchbase&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=adarshrana1012&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=adarshrana1012&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=adarshrana1012&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<br/>
+
+![AIT Pune](https://img.shields.io/badge/AIT_Pune-Computer_Engineering-6366f1?style=flat-square&logo=graduation-cap&logoColor=white)
+![CGPA](https://img.shields.io/badge/CGPA-8.82%2F10-818cf8?style=flat-square&logo=academia&logoColor=white)
+![Batch](https://img.shields.io/badge/Batch-2024--2028-a78bfa?style=flat-square&logo=calendar&logoColor=white)
+![Location](https://img.shields.io/badge/Pune%2C_Maharashtra-India-6366f1?style=flat-square&logo=googlemaps&logoColor=white)
+
+<br/>
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/adarshrana1012)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/adarshhrana)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adarshrana1012@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/adarshrana1012)
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=adarshrana1012&color=6366f1&style=flat-square&label=Profile+Views)
+![Followers](https://img.shields.io/github/followers/adarshrana1012?style=flat-square&color=818cf8&label=Followers&logo=github)
+![Stars](https://img.shields.io/github/stars/adarshrana1012?style=flat-square&color=a78bfa&label=Total+Stars&logo=github)
+
+</div>
 
 ---
-[![](https://komarev.com/ghpvc/?username=adarshrana1012&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## About
+
+```yaml
+name        : Adarsh Rana
+role        : Computer Engineering Undergrad | Full Stack Developer | AI Engineer
+institution : Army Institute of Technology (AIT), Pune
+cgpa        : 8.82 / 10.0
+focus       : Intelligent systems, scalable backends, product-grade UI/UX
+```
+
+Second-year Computer Engineering student at AIT Pune with a strong foundation in full-stack development, database-driven automation, and applied AI/ML. I build secure, production-grade systems using Java, Python, and modern web technologies — from ACID-compliant booking platforms to multi-role SaaS with vision AI pipelines.
+
+Currently competing in **Gridlock Hackathon 2.0** (Flipkart × Bengaluru Traffic Police), building an AI-powered urban traffic analysis platform using CCTV footage, EfficientNetV2, Swin Transformer, and YOLOv8.
+
+**Open To:** Software Engineering Internships · Backend / Full Stack Roles · AI/ML Research Collaborations · Open Source Contributions
+
+---
+
+## Tech Stack
+
+<div align="center">
+
+**Languages**
+
+[![Languages](https://skillicons.dev/icons?i=cpp,java,python,javascript,typescript,html,css&theme=dark)](https://skillicons.dev)
+
+**Frontend**
+
+[![Frontend](https://skillicons.dev/icons?i=react,threejs,figma,tailwind&theme=dark)](https://skillicons.dev)
+
+**Backend & Databases**
+
+[![Backend](https://skillicons.dev/icons?i=nodejs,express,fastapi,mysql,postgresql,mongodb,redis&theme=dark)](https://skillicons.dev)
+
+**Cloud, DevOps & Tooling**
+
+[![Tooling](https://skillicons.dev/icons?i=git,github,docker,gcp,linux,vscode&theme=dark)](https://skillicons.dev)
+
+</div>
+
+---
+
+## AI / ML Expertise
+
+| Domain | Proficiency | Details |
+|---|---|---|
+| Computer Vision | ████████░░ Advanced | YOLOv8, EfficientNetV2, Swin Transformer, OpenCV |
+| AI Integration | ████████░░ Advanced | Groq Vision API, LLM-augmented workflows |
+| Predictive Modeling | ███████░░░ Intermediate | Random Forest Regressor, traffic demand forecasting |
+| Face Recognition | ███████░░░ Intermediate | OpenCV-based proxy attendance elimination |
+| Data Pipelines | ███████░░░ Intermediate | ETL, automated certificate extraction, CCTV analytics |
+
+---
+
+## Featured Projects
+
+<details>
+<summary><strong>🔷 Google Antigravity — AI-Powered Urban Traffic Analysis</strong></summary>
+
+<br/>
+
+Real-time intelligent traffic monitoring platform built for **Gridlock Hackathon 2.0** (Flipkart × Bengaluru Traffic Police / ASTraM × HackerEarth). Analyses live CCTV footage to deliver actionable urban congestion intelligence.
+
+| Attribute | Details |
+|---|---|
+| **Stack** | EfficientNetV2, Swin Transformer, YOLOv8, FastAPI, React, MapMyIndia, PostgreSQL, Redis, GCP |
+| **Scale** | City-scale deployment, multi-feed CCTV ingestion |
+| **Performance** | Phase 1 Leaderboard Score: 97 / 100 |
+| **Security** | India DPDP Act 2023 compliant |
+| **Impact** | Traffic signal optimization, anomaly detection, crowd density mapping |
+| **Repository** | [![GitHub](https://img.shields.io/badge/GitHub-adarshrana1012-6366f1?style=flat-square&logo=github)](https://github.com/adarshrana1012) |
+
+Architected a full ML inference pipeline leveraging transformer-based vision models for vehicle detection and density estimation. Integrated MapMyIndia APIs for geographic overlays and built a real-time FastAPI backend with Redis caching for low-latency CCTV stream analytics.
+
+</details>
+
+<details>
+<summary><strong>🔷 LearnTrace — AI-Powered Learning History & Institutional Tracker</strong></summary>
+
+<br/>
+
+Multi-role SaaS platform enabling students, teachers, HODs, and administrators to track academic progress, certifications, and institutional events.
+
+| Attribute | Details |
+|---|---|
+| **Stack** | TypeScript, React, Node.js, PostgreSQL, Three.js, Groq Vision AI, Cloudinary |
+| **Scale** | Multi-role SaaS — Student / Teacher / HOD / Admin |
+| **Performance** | ~90% reduction in manual certificate entry via Vision AI |
+| **Security** | JWT + OTP auth, role-based access guards, document upload sandboxing |
+| **Impact** | Automated certificate extraction, 3D analytics dashboards, role-gated workflows |
+| **Repository** | [![GitHub](https://img.shields.io/badge/GitHub-adarshrana1012-6366f1?style=flat-square&logo=github)](https://github.com/adarshrana1012) |
+
+Integrated Groq Vision AI to automate certificate metadata extraction, eliminating ~90% of manual data entry. Built 3D analytics dashboards using Three.js and architected a Cloudinary-backed document management system with full RBAC enforcement.
+
+</details>
+
+<details>
+<summary><strong>🔷 SkyScout — Full-Stack Flight Booking Platform</strong></summary>
+
+<br/>
+
+Production-grade flight booking web application with admin controls, concurrent booking management, and enterprise security posture.
+
+| Attribute | Details |
+|---|---|
+| **Stack** | Node.js, Express.js, MySQL, JavaScript, REST APIs |
+| **Scale** | 14-table 3NF-compliant schema, composite indexing |
+| **Performance** | Optimized queries with stored procedures for concurrent bookings |
+| **Security** | BcryptJS hashing, rate limiting, session auth, SQL injection prevention |
+| **Impact** | ACID-compliant seat management, automated overbooking prevention via DB triggers |
+| **Repository** | [![GitHub](https://img.shields.io/badge/GitHub-adarshrana1012-6366f1?style=flat-square&logo=github)](https://github.com/adarshrana1012) |
+
+Engineered a responsive booking platform with full session auth and an admin dashboard. Designed a 3NF schema across 14 tables with composite indexing. Implemented ACID-compliant stored procedures and database-level triggers to prevent overbooking under concurrent load.
+
+</details>
+
+<details>
+<summary><strong>🔷 Academic Help Desk System — Campus Automation Platform</strong></summary>
+
+<br/>
+
+Multi-module academic automation system covering certificate generation, timetable management, marksheet processing, and biometric attendance.
+
+| Attribute | Details |
+|---|---|
+| **Stack** | Python, OpenCV, MySQL |
+| **Scale** | Multi-user institutional deployment |
+| **Performance** | Real-time face recognition for attendance validation |
+| **Security** | RBAC with secure authentication, normalized schemas |
+| **Impact** | Proxy attendance elimination, automated certificate generation, multi-user data integrity |
+| **Repository** | [![GitHub](https://img.shields.io/badge/GitHub-adarshrana1012-6366f1?style=flat-square&logo=github)](https://github.com/adarshrana1012) |
+
+Led development of a campus-wide automation platform integrating OpenCV face recognition to eliminate proxy attendance. Implemented RBAC with normalized MySQL schemas ensuring multi-user data integrity and efficient query performance across concurrent users.
+
+</details>
+
+---
+
+## Experience
+
+### Secretary, Magazine Board
+**Army Institute of Technology (AIT), Pune** · *2024 – Present*
+
+Leading editorial production of the institute magazine and overseeing creative direction, stakeholder coordination, and publication workflows.
+
+- Directed end-to-end production of the institute's official magazine — content strategy, editorial review, and design oversight
+- Spearheaded **ReVerse**, Pune's largest slam poetry event — artist coordination, venue logistics, promotions, and on-ground execution
+- Managed cross-functional teams across design, writing, and marketing verticals
+
+`Leadership` `Event Management` `Editorial Production` `Stakeholder Coordination`
+
+---
+
+### Core Member, Public Relations Cell
+**Army Institute of Technology (AIT), Pune** · *2024 – 2025*
+
+- Coordinated the institute Alumni Meet — official communications with alumni, faculty, and administration
+- Managed stakeholder engagement across 200+ alumni and institutional contacts
+- Ensured seamless coordination between internal teams and external participants
+
+`Public Relations` `Alumni Engagement` `Communications` `Institutional Coordination`
+
+---
+
+## Achievements
+
+<div align="center">
+
+| Recognition | Details |
+|---|---|
+| 🏆 **HackIndia Spark 6 – NIT Delhi Finalist (2026)** | National-level hackathon finalist at NIT Delhi; competitive full-stack development under time constraints |
+| 🎓 **Reliance Foundation Undergraduate Scholar** | Selected among 5,000 scholars from 100,000+ applicants for academic excellence and leadership potential |
+| 🏅 **PMSS Scholar** | Recipient of Prime Minister's Scholarship Scheme for top academic merit |
+| 🥇 **National Science Olympiad – Gold Medalist** | National-level recognition in analytical reasoning and problem-solving |
+| 📊 **Gridlock Hackathon 2.0 – Phase 1 Score: 97/100** | Flipkart × Bengaluru Traffic Police; AI-powered urban traffic analysis platform |
+
+</div>
+
+---
+
+## Certifications
+
+<div align="center">
+
+**NPTEL**
+
+![NPTEL](https://img.shields.io/badge/NPTEL-Programming_in_Java-6366f1?style=for-the-badge&logo=java&logoColor=white)
+![NPTEL](https://img.shields.io/badge/NPTEL-DSA-818cf8?style=for-the-badge&logo=cplusplus&logoColor=white)
+
+**Cisco / Networking**
+
+![Cisco](https://img.shields.io/badge/Cisco-Networking_Fundamentals-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+
+**Design & Tooling**
+
+![Figma](https://img.shields.io/badge/Figma-UI%2FUX_Design-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-Version_Control-181717?style=for-the-badge&logo=github&logoColor=white)
+
+</div>
+
+---
+
+## Coding Profiles
+
+<div align="center">
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://geeksforgeeks.org/)
+[![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black)](https://hackerrank.com/)
+[![HackerEarth](https://img.shields.io/badge/HackerEarth-2C3454?style=for-the-badge&logo=hackerearth&logoColor=white)](https://hackerearth.com/)
+
+</div>
+
+---
+
+## GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=adarshrana1012&show_icons=true&theme=tokyonight&bg_color=0d1117&title_color=818cf8&icon_color=6366f1&text_color=a78bfa&border_color=1e1b4b&hide_border=false&count_private=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adarshrana1012&layout=compact&theme=tokyonight&bg_color=0d1117&title_color=818cf8&text_color=a78bfa&border_color=1e1b4b&langs_count=8" />
+
+<br/>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=adarshrana1012&theme=tokyonight&background=0d1117&border=1e1b4b&ring=6366f1&fire=818cf8&currStreakLabel=a78bfa&sideNums=a78bfa&currStreakNum=818cf8&dates=6366f1&sideLabels=a78bfa)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+## GitHub Trophies
+
+<div align="center">
+
+[![Trophy](https://github-profile-trophy.vercel.app/?username=adarshrana1012&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+## Contribution Activity
+
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=adarshrana1012&bg_color=0d1117&color=818cf8&line=6366f1&point=a78bfa&area=true&area_color=1e1b4b&hide_border=false&border_color=1e1b4b&radius=8)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
+
+## Contribution Snake
+
+<div align="center">
+
+![Snake animation](https://github.com/adarshrana1012/adarshrana1012/blob/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+---
+
+## Current Focus
+
+```yaml
+learning:
+  - Transformer architectures for vision tasks (Swin, ViT)
+  - System design and distributed systems fundamentals
+  - Advanced DSA for competitive programming
+
+building:
+  - Google Antigravity — AI urban traffic analysis (Gridlock Hackathon 2.0)
+  - LearnTrace — multi-role SaaS with AI-powered certificate extraction
+
+exploring:
+  - GCP deployment and cloud-native architecture
+  - DPDP Act 2023 compliance in production systems
+  - FastAPI microservices with Redis caching
+
+open_to:
+  - Software Engineering Internships (SDE / Full Stack / Backend)
+  - AI/ML Research Collaborations
+  - Open Source Contributions
+```
+
+---
+
+## Connect
+
+<div align="center">
+
+[![Gmail](https://img.shields.io/badge/adarshrana1012%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adarshrana1012@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/adarshhrana-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/adarshhrana)
+[![GitHub](https://img.shields.io/badge/adarshrana1012-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/adarshrana1012)
+
+</div>
+
+---
+
+<div align="center">
+
+*"First, solve the problem. Then, write the code."*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6366f1&height=100&section=footer" width="100%" />
+
+</div>
