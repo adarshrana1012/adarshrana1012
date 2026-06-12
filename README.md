@@ -1,26 +1,27 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6366f1&height=120&section=header&text=&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=f97316&height=120&section=header&text=&animation=fadeIn" width="100%" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=818CF8&center=true&vCenter=true&width=700&lines=Adarsh+Rana;Computer+Engineer+%40+AIT+Pune;Full+Stack+Developer;AI+%2F+ML+Engineer;Building+Intelligent+Systems)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=FBBF24&center=true&vCenter=true&width=700&lines=Adarsh+Rana;Computer+Engineer+%40+AIT+Pune;Full+Stack+Developer;AI+%2F+ML+Engineer;Building+Intelligent+Systems)](https://git.io/typing-svg)
+
+<br/>
+
+![AIT Pune](https://img.shields.io/badge/AIT_Pune-Computer_Engineering-f97316?style=flat-square&logo=graduation-cap&logoColor=white)
+![CGPA](https://img.shields.io/badge/CGPA-8.82%2F10-fbbf24?style=flat-square&logo=academia&logoColor=black)
+![Batch](https://img.shields.io/badge/Batch-2024--2028-fb923c?style=flat-square&logo=calendar&logoColor=white)
+![Location](https://img.shields.io/badge/Pune%2C_Maharashtra-India-f97316?style=flat-square&logo=googlemaps&logoColor=white)
 
 <br/>
 
-![AIT Pune](https://img.shields.io/badge/AIT_Pune-Computer_Engineering-6366f1?style=flat-square&logo=graduation-cap&logoColor=white)
-![CGPA](https://img.shields.io/badge/CGPA-8.82%2F10-818cf8?style=flat-square&logo=academia&logoColor=white)
-![Batch](https://img.shields.io/badge/Batch-2024--2028-a78bfa?style=flat-square&logo=calendar&logoColor=white)
-![Location](https://img.shields.io/badge/Pune%2C_Maharashtra-India-6366f1?style=flat-square&logo=googlemaps&logoColor=white)
-
-<br/>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/adarshhrana)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adarshrana1012@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/adarshrana1012)
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=adarshrana1012&color=6366f1&style=flat-square&label=Profile+Views)
-![Followers](https://img.shields.io/github/followers/adarshrana1012?style=flat-square&color=818cf8&label=Followers&logo=github)
-![Stars](https://img.shields.io/github/stars/adarshrana1012?style=flat-square&color=a78bfa&label=Total+Stars&logo=github)
+![Profile Views](https://komarev.com/ghpvc/?username=adarshrana1012&color=f97316&style=flat-square&label=Profile+Views)
+![Followers](https://img.shields.io/github/followers/adarshrana1012?style=flat-square&color=fbbf24&label=Followers&logo=github)
+![Stars](https://img.shields.io/github/stars/adarshrana1012?style=flat-square&color=fb923c&label=Total+Stars&logo=github)
 
 </div>
 
@@ -82,10 +83,8 @@ Currently competing in **Gridlock Hackathon 2.0** (Flipkart × Bengaluru Traffic
 
 ## Featured Projects
 
-
-
 <details>
-<summary><strong>🔷 LearnTrace — AI-Powered Learning History & Institutional Tracker</strong></summary>
+<summary><strong>🔶 LearnTrace — AI-Powered Learning History & Institutional Tracker</strong></summary>
 
 <br/>
 
@@ -98,14 +97,14 @@ Multi-role SaaS platform enabling students, teachers, HODs, and administrators t
 | **Performance** | ~90% reduction in manual certificate entry via Vision AI |
 | **Security** | JWT + OTP auth, role-based access guards, document upload sandboxing |
 | **Impact** | Automated certificate extraction, 3D analytics dashboards, role-gated workflows |
-| **Repository** | [![GitHub](https://img.shields.io/badge/GitHub-adarshrana1012-6366f1?style=flat-square&logo=github)](https://github.com/adarshrana1012) |
+| **Repository** | [![GitHub](https://img.shields.io/badge/GitHub-adarshrana1012-f97316?style=flat-square&logo=github)](https://github.com/adarshrana1012) |
 
 Integrated Groq Vision AI to automate certificate metadata extraction, eliminating ~90% of manual data entry. Built 3D analytics dashboards using Three.js and architected a Cloudinary-backed document management system with full RBAC enforcement.
 
 </details>
 
 <details>
-<summary><strong>🔷 SkyScout — Full-Stack Flight Booking Platform</strong></summary>
+<summary><strong>🔶 SkyScout — Full-Stack Flight Booking Platform</strong></summary>
 
 <br/>
 
@@ -118,14 +117,14 @@ Production-grade flight booking web application with admin controls, concurrent 
 | **Performance** | Optimized queries with stored procedures for concurrent bookings |
 | **Security** | BcryptJS hashing, rate limiting, session auth, SQL injection prevention |
 | **Impact** | ACID-compliant seat management, automated overbooking prevention via DB triggers |
-| **Repository** | [![GitHub](https://img.shields.io/badge/GitHub-adarshrana1012-6366f1?style=flat-square&logo=github)](https://github.com/adarshrana1012) |
+| **Repository** | [![GitHub](https://img.shields.io/badge/GitHub-adarshrana1012-f97316?style=flat-square&logo=github)](https://github.com/adarshrana1012) |
 
 Engineered a responsive booking platform with full session auth and an admin dashboard. Designed a 3NF schema across 14 tables with composite indexing. Implemented ACID-compliant stored procedures and database-level triggers to prevent overbooking under concurrent load.
 
 </details>
 
 <details>
-<summary><strong>🔷 Academic Help Desk System — Campus Automation Platform</strong></summary>
+<summary><strong>🔶 Academic Help Desk System — Campus Automation Platform</strong></summary>
 
 <br/>
 
@@ -138,7 +137,7 @@ Multi-module academic automation system covering certificate generation, timetab
 | **Performance** | Real-time face recognition for attendance validation |
 | **Security** | RBAC with secure authentication, normalized schemas |
 | **Impact** | Proxy attendance elimination, automated certificate generation, multi-user data integrity |
-| **Repository** | [![GitHub](https://img.shields.io/badge/GitHub-adarshrana1012-6366f1?style=flat-square&logo=github)](https://github.com/adarshrana1012) |
+| **Repository** | [![GitHub](https://img.shields.io/badge/GitHub-adarshrana1012-f97316?style=flat-square&logo=github)](https://github.com/adarshrana1012) |
 
 Led development of a campus-wide automation platform integrating OpenCV face recognition to eliminate proxy attendance. Implemented RBAC with normalized MySQL schemas ensuring multi-user data integrity and efficient query performance across concurrent users.
 
@@ -184,41 +183,34 @@ Leading editorial production of the institute magazine and overseeing creative d
 | 🥇 **National Science Olympiad – Gold Medalist** | National-level recognition in analytical reasoning and problem-solving |
 
 
+</div>
+
+
 
 ## GitHub Analytics
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=adarshrana1012&show_icons=true&theme=tokyonight&bg_color=0d1117&title_color=818cf8&icon_color=6366f1&text_color=a78bfa&border_color=1e1b4b&hide_border=false&count_private=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adarshrana1012&layout=compact&theme=tokyonight&bg_color=0d1117&title_color=818cf8&text_color=a78bfa&border_color=1e1b4b&langs_count=8" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=adarshrana1012&show_icons=true&theme=solarized-light&bg_color=0d1117&title_color=f97316&icon_color=fbbf24&text_color=fb923c&border_color=431407&hide_border=false&count_private=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adarshrana1012&layout=compact&theme=solarized-light&bg_color=0d1117&title_color=f97316&text_color=fb923c&border_color=431407&langs_count=8" />
 
 <br/>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=adarshrana1012&theme=tokyonight&background=0d1117&border=1e1b4b&ring=6366f1&fire=818cf8&currStreakLabel=a78bfa&sideNums=a78bfa&currStreakNum=818cf8&dates=6366f1&sideLabels=a78bfa)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=adarshrana1012&theme=radical&background=0d1117&border=431407&ring=f97316&fire=fbbf24&currStreakLabel=fb923c&sideNums=fb923c&currStreakNum=fbbf24&dates=f97316&sideLabels=fb923c)](https://git.io/streak-stats)
 
 </div>
 
----
 
-## GitHub Trophies
-
-<div align="center">
-
-[![Trophy](https://github-profile-trophy.vercel.app/?username=adarshrana1012&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
 
 ## Contribution Activity
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=adarshrana1012&bg_color=0d1117&color=818cf8&line=6366f1&point=a78bfa&area=true&area_color=1e1b4b&hide_border=false&border_color=1e1b4b&radius=8)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=adarshrana1012&bg_color=0d1117&color=fbbf24&line=f97316&point=fb923c&area=true&area_color=431407&hide_border=false&border_color=431407&radius=8)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
-
+---
 
 ## Current Focus
 
@@ -261,6 +253,6 @@ open_to:
 
 *"First, solve the problem. Then, write the code."*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6366f1&height=100&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=f97316&height=100&section=footer" width="100%" />
 
 </div>
