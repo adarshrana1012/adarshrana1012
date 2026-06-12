@@ -12,8 +12,6 @@
 ![Location](https://img.shields.io/badge/Pune%2C_Maharashtra-India-6366f1?style=flat-square&logo=googlemaps&logoColor=white)
 
 <br/>
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/adarshrana1012)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/adarshhrana)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adarshrana1012@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/adarshrana1012)
@@ -31,11 +29,11 @@
 ## About
 
 ```yaml
-name        : Adarsh Rana
-role        : Computer Engineering Undergrad | Full Stack Developer | AI Engineer
-institution : Army Institute of Technology (AIT), Pune
-cgpa        : 8.82 / 10.0
-focus       : Intelligent systems, scalable backends, product-grade UI/UX
+Name        : Adarsh Rana
+Role        : Computer Engineering Undergrad | Full Stack Developer | AI Engineer
+Institution : Army Institute of Technology (AIT), Pune
+CGPA        : 8.82 / 10.0
+Focus       : Intelligent systems, scalable backends, product-grade UI/UX
 ```
 
 Second-year Computer Engineering student at AIT Pune with a strong foundation in full-stack development, database-driven automation, and applied AI/ML. I build secure, production-grade systems using Java, Python, and modern web technologies — from ACID-compliant booking platforms to multi-role SaaS with vision AI pipelines.
@@ -84,25 +82,7 @@ Currently competing in **Gridlock Hackathon 2.0** (Flipkart × Bengaluru Traffic
 
 ## Featured Projects
 
-<details>
-<summary><strong>🔷 Google Antigravity — AI-Powered Urban Traffic Analysis</strong></summary>
 
-<br/>
-
-Real-time intelligent traffic monitoring platform built for **Gridlock Hackathon 2.0** (Flipkart × Bengaluru Traffic Police / ASTraM × HackerEarth). Analyses live CCTV footage to deliver actionable urban congestion intelligence.
-
-| Attribute | Details |
-|---|---|
-| **Stack** | EfficientNetV2, Swin Transformer, YOLOv8, FastAPI, React, MapMyIndia, PostgreSQL, Redis, GCP |
-| **Scale** | City-scale deployment, multi-feed CCTV ingestion |
-| **Performance** | Phase 1 Leaderboard Score: 97 / 100 |
-| **Security** | India DPDP Act 2023 compliant |
-| **Impact** | Traffic signal optimization, anomaly detection, crowd density mapping |
-| **Repository** | [![GitHub](https://img.shields.io/badge/GitHub-adarshrana1012-6366f1?style=flat-square&logo=github)](https://github.com/adarshrana1012) |
-
-Architected a full ML inference pipeline leveraging transformer-based vision models for vehicle detection and density estimation. Integrated MapMyIndia APIs for geographic overlays and built a real-time FastAPI backend with Redis caching for low-latency CCTV stream analytics.
-
-</details>
 
 <details>
 <summary><strong>🔷 LearnTrace — AI-Powered Learning History & Institutional Tracker</strong></summary>
@@ -202,46 +182,8 @@ Leading editorial production of the institute magazine and overseeing creative d
 | 🎓 **Reliance Foundation Undergraduate Scholar** | Selected among 5,000 scholars from 100,000+ applicants for academic excellence and leadership potential |
 | 🏅 **PMSS Scholar** | Recipient of Prime Minister's Scholarship Scheme for top academic merit |
 | 🥇 **National Science Olympiad – Gold Medalist** | National-level recognition in analytical reasoning and problem-solving |
-| 📊 **Gridlock Hackathon 2.0 – Phase 1 Score: 97/100** | Flipkart × Bengaluru Traffic Police; AI-powered urban traffic analysis platform |
 
-</div>
 
----
-
-## Certifications
-
-<div align="center">
-
-**NPTEL**
-
-![NPTEL](https://img.shields.io/badge/NPTEL-Programming_in_Java-6366f1?style=for-the-badge&logo=java&logoColor=white)
-![NPTEL](https://img.shields.io/badge/NPTEL-DSA-818cf8?style=for-the-badge&logo=cplusplus&logoColor=white)
-
-**Cisco / Networking**
-
-![Cisco](https://img.shields.io/badge/Cisco-Networking_Fundamentals-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
-
-**Design & Tooling**
-
-![Figma](https://img.shields.io/badge/Figma-UI%2FUX_Design-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-Version_Control-181717?style=for-the-badge&logo=github&logoColor=white)
-
-</div>
-
----
-
-## Coding Profiles
-
-<div align="center">
-
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://geeksforgeeks.org/)
-[![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black)](https://hackerrank.com/)
-[![HackerEarth](https://img.shields.io/badge/HackerEarth-2C3454?style=for-the-badge&logo=hackerearth&logoColor=white)](https://hackerearth.com/)
-
-</div>
-
----
 
 ## GitHub Analytics
 
@@ -276,17 +218,7 @@ Leading editorial production of the institute magazine and overseeing creative d
 
 </div>
 
----
 
-## Contribution Snake
-
-<div align="center">
-
-![Snake animation](https://github.com/adarshrana1012/adarshrana1012/blob/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
----
 
 ## Current Focus
 
